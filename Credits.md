@@ -2,3 +2,5 @@
 -   [Machinery](https://thenounproject.com/term/machinery/1170931/) By Greenhill for "Engineering" technologies
 -   [Knight](https://thenounproject.com/term/knight/1026633/) By Robert Bjurshagen for "Military" technologies
 -   [People](https://thenounproject.com/term/people/670317/) By Gregor Cresnar for "Society" technologies
+-   [Sword](https://thenounproject.com/search/?q=Sword&i=1215443) By Guilherme Furtado for Fencer I
+-   [Sword](https://thenounproject.com/search/?q=Sword&i=1432662) By uzeir syarief for Fencer II
