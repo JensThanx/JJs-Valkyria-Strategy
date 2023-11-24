@@ -8,3 +8,4 @@
 -   [Knight](https://thenounproject.com/term/knight/1026633/) By Robert Bjurshagen for Military Technolgies
 -   [Machinery](https://thenounproject.com/term/machinery/1170931/) By Greenhill for Engineering Technologies
 -   [Brain](https://thenounproject.com/term/brain/64073/) By Tony Gines for Basic Research Technolgies
+-   [machine-gun](https://thenounproject.com/search/?q=machine%20gun&i=591058) By Joana Pereira for Modern Infantry
