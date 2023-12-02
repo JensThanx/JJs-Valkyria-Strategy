@@ -9,3 +9,7 @@
 -   [Machinery](https://thenounproject.com/term/machinery/1170931/) By Greenhill for Engineering Technologies
 -   [Brain](https://thenounproject.com/term/brain/64073/) By Tony Gines for Basic Research Technolgies
 -   [machine-gun](https://thenounproject.com/search/?q=machine%20gun&i=591058) By Joana Pereira for Modern Infantry
+-   [Engine](https://thenounproject.com/term/engine/1877958/) By Andre for Mechanical Brain
+-   [Chamber](https://thenounproject.com/term/chamber/1242689/) By IYIKON for Calculator Unit
+-   [Buddhism](https://thenounproject.com/search/?q=buddhism&i=38764) by Julio Yanes for Atlantic Federation
+-   [Crown](https://thenounproject.com/search/?q=crown&i=607405) By Peter van Driel for Great Britain
